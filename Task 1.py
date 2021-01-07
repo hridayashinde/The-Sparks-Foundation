@@ -10,7 +10,6 @@ import numpy as np
 import pandas as pd
 import seaborn as sb
 
-
 # Importing the data
 
 data = pd.read_csv('/Users/hridayashinde/Desktop/Sparks Foundation/Dataset1.csv')
